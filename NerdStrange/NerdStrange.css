@@ -1,0 +1,82 @@
+body  {
+    color:rgba(0, 0, 0, 0);
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: #070000;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://mobimg.b-cdn.net/v3/fetch/30/3070415abe3a4d7cf7e0b58e539755ba.jpeg);
+}
+h1 { 
+    text-align: center;
+    font-size: 75px;
+    padding: 20px;
+
+}
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    text-align: center;
+    padding: 30px 150px;
+}
+li {
+    width: 200px;
+}
+
+a {
+    color: black;
+    text-decoration: none; 
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #070000;
+    font-size: 20px;
+}
+img {
+    margin: 45px;
+    width: 250px;
+    height: 350px;
+    border:5px solid #000000;
+}
+nav a:hover {
+    Color: #0074FA;
+    
+}
+p{
+    color: white;
+    text-decoration: none; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #070000;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.Tipspace {
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin: 45px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+}
+.Spider{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin: 47px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+}
+.re4{
+    background-color: rgba(0, 0, 0, 0.445);
+    text-align: center;
+    margin: 49px;
+    margin-top: 1px;
+    width: 250px;
+    height: 80px;
+    border:5px solid #000000;
+}
+div{
+    float: left;
+}
